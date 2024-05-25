@@ -29,7 +29,9 @@ url: "https://bahe007.github.io"
 
 
 # Build settings
-theme: minima
+#theme: minima
+
+remote-theme: bahe007/rtg-rdm-website-theme
 plugins:
   - jekyll-feed
 
