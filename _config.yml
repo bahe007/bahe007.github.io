@@ -34,6 +34,7 @@ url: "https://bahe007.github.io"
 remote_theme: bahe007/rtg-rdm-website-theme
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
